@@ -1,0 +1,1 @@
+This repo is a quick demo written with `taipy`.

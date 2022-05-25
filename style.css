@@ -1,0 +1,26 @@
+.input_tf {
+    vertical-align: middle;
+}
+
+.input_button {
+    vertical-align: middle;
+}
+
+.centered_elements {
+    margin: 0 auto;
+    width: 400px;
+}
+
+.centered_temp {
+    margin: 0 auto;
+    width:  150px;
+}
+
+.weather_icon {
+    width: 100px;
+    height: 100px;
+}
+
+.weather_temp {
+    font-size: 36px;
+}
