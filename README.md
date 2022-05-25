@@ -1,5 +1,7 @@
 This repo is a quick demo written with `taipy`.
 
+![splash](screens/splash.png)
+
 Just wanted to explore possibilities of the GUI.
 
 Overall the product looks nice and promising.
